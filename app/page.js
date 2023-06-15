@@ -1,6 +1,3 @@
-//https://www.youtube.com/watch?v=uikATllLdRc&ab_channel=CodeCommerce
-//12:31
-
 "use client";
 import Image from "next/image";
 import React, { useState, useEffect } from "react";
